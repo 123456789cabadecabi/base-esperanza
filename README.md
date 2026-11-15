@@ -30,6 +30,10 @@ Water is shared between crises, so every decision has consequences.
 ## 👧 Made for kids (6–12)
 2 levels · short sentences and emoji questions · read-aloud voice · 3 hints · big touch buttons with icon + word · joystick · full screen · **Spanish / English** · teacher progress table (CSV).
 
+- **3 clear views:** 🗺️ Map (2D) · 🧑‍🚀 3D (behind your astronaut) · 👀 Eyes (first person).
+- **Player profiles:** "Who is playing?" lets each child continue their own mission (credits, upgrades, levels) or start as a new player on a shared school computer.
+- **Manual with formulas** (📐 e.g. 2 H₂O → 2 H₂ + O₂) and a **Units and symbols** glossary (kW, W, mSv, °C, H₂O, CO₂, 2ⁿ, ≤ ≥).
+
 ## 🛠️ Technology
 - **One HTML file** (HTML + CSS + JavaScript). No install, no login, no server. Works offline.
 - **three.js r160** (MIT), embedded, for the 3D view; a built-in 2D map is the fallback.
