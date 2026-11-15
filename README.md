@@ -42,8 +42,11 @@ The game is a single file on purpose: teachers can copy it to a USB drive and pl
 Download `index.html` and double-click it, or open the live link above.
 
 ## 🤖 Use of AI (Super Intelligence)
-We used **Claude (Anthropic)** as a coding and writing assistant for game code, the 3D scene, bug fixing, the ES/EN translation layer and drafting in-game texts. **Team Killa** designed the game, chose the science content and NASA sources, and reviewed and play-tested every change.
-**No AI-generated images, video or audio.** This is also disclosed in the code header of `index.html`.
+**Made by Team Killa (no AI):** the game concept and the survival-suspense mechanics (inspired by games like *Five Nights at Freddy's* and *R.E.P.O.*), game design, levels, the math/physics/chemistry problems, characters and abilities, the space base, the Mars exterior and the environments.
+
+**AI assistance (Claude, Anthropic):** English translation, bug fixing, control tuning, mobile/touch adaptation, and polishing (simpler texts for kids, lighting and suspense effects, the "It really happened!" NASA cards, offline 3D loading). The team reviewed and play-tested every change.
+
+**No AI-generated images, video or audio.** This is also disclosed in the code header of `index.html` and on the in-game credits screen.
 
 ## 📚 Data and resources
 - NASA DONKI – https://ccmc.gsfc.nasa.gov/tools/DONKI
