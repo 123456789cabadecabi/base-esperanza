@@ -2,7 +2,7 @@
 
 **Team Killa · NASA Space Apps Challenge 2026 (Lima, Peru)**
 
-An educational Mars survival game for kids aged 6–12. Keep the base alive for 30 sols by solving real math, physics and chemistry problems, and watch out for Glitch, the broken robot that roams the base.
+An educational Mars survival game for kids aged 6–12. Keep the base alive for 30 Martian days by solving real maths, physics and chemistry problems, and watch out for Glitch, the broken robot that roams the base.
 
 🎮 **Play now:** _paste your GitHub Pages / Vercel link here_
 🎬 **Demo video:** _paste your YouTube link here_
@@ -10,15 +10,15 @@ An educational Mars survival game for kids aged 6–12. Keep the base alive for 
 ---
 
 ## 🎯 How it works
-An "event director" triggers 5 crises. The player runs to the red room and solves a science problem:
+An "event director" triggers 5 crises. The player runs to the room that turns red and solves a science problem:
 
 | Crisis | Subject | What kids do |
 |---|---|---|
 | 💧 Oxygen leak | Chemistry | Electrolysis: 2 H₂O → 2 H₂ + O₂ |
 | ☀️ Solar storm | Physics | Stack regolith to block radiation |
-| ⚡ Power failure | Math / Physics | Choose how many dusty panels to clean |
+| ⚡ Power failure | Maths / Physics | Choose how many dusty panels to clean |
 | ☁️ High CO₂ | Chemistry | MOXIE-type reactor: 2 CO₂ → 2 CO + O₂ |
-| 🌱 Crop at risk | Math | Proportions of water and nutrients |
+| 🌱 Crop at risk | Maths | Proportions of water and nutrients |
 
 Water is shared between crises, so every decision has consequences.
 
@@ -46,7 +46,7 @@ The game is a single file on purpose: teachers can copy it to a USB drive and pl
 Download `index.html` and double-click it, or open the live link above.
 
 ## 🤖 Use of AI (Super Intelligence)
-**Made by Team Killa (no AI):** the game concept and the survival-suspense mechanics (inspired by games like *Five Nights at Freddy's* and *R.E.P.O.*), game design, levels, the math/physics/chemistry problems, characters and abilities, the space base, the Mars exterior and the environments.
+**Made by Team Killa (no AI):** the game concept and the survival-suspense mechanics (inspired by games like *Five Nights at Freddy's* and *R.E.P.O.*), game design, levels, the maths/physics/chemistry problems, characters and abilities, the space base, the Mars exterior and the environments.
 
 **AI assistance (Claude, Anthropic):** English translation, bug fixing, control tuning, mobile/touch adaptation, and polishing (simpler texts for kids, lighting and suspense effects, the "It really happened!" NASA cards, offline 3D loading). The team reviewed and play-tested every change.
 
