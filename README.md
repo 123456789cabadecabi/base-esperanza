@@ -5,7 +5,7 @@
 An educational Mars survival game for kids aged 6–12. Keep the base alive for 30 Martian days by solving real maths, physics and chemistry problems, and watch out for Glitch, the broken robot that roams the base.
 
 🎮 **Play now:** https://123456789cabadecabi.github.io/base-esperanza/
-🎬 **Demo video:** _paste your YouTube link here_
+🎬 **Demo video:** https://drive.google.com/file/d/1kaGpzuRkKNrd2jHBoo1xuE03qeRSE4nl/view?usp=sharing
 
 ---
 
